@@ -1,8 +1,11 @@
 package sxception.throws_;
 
+import basic.Quiz01;
+
+
 public class throwEx01 {
 	public static void main(String[] args) {
-		try {
+	/*	try {
 
 			System.out.println(return0101(4,4));
 			
@@ -21,6 +24,8 @@ public class throwEx01 {
 			throw new Exception("우린끝났어ㅓㅓ");
 		}
 		return num+nunm;
+	}*/
+	
+	Quiz01 q = new Quiz01();
 	}
-
 }
